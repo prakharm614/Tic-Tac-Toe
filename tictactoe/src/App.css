@@ -9,7 +9,6 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f0f8ff; /* Light blue background */
 }
-
 /* Title styling */
 .title {
     text-align: center;
@@ -60,6 +59,7 @@ body {
     background-color: #e0ffe0; /* Subtle green on hover */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Hover shadow effect */
 }
+
 
 /* Responsive adjustments */
 @media (max-width: 600px) {
